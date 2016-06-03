@@ -7,6 +7,76 @@
 //
 
 import Foundation
+import Cocoa
 
-print("Hello, World!")
+//runForLoopFile()
 
+//runWhileLoopFile()
+
+//hello()
+
+//price()
+
+//annote()
+
+//add()
+
+//operation()
+
+//ifstatement()
+
+//ifelseif()
+
+//nestedif()
+
+//switchcase()
+
+//forin()
+
+//whileloop()
+
+//dowhileloop()
+
+//conti()
+
+//fallthroghstat()
+
+//array()
+
+//dic()
+
+//functions()
+
+//close()
+
+//enumerator()
+
+//stucture()
+
+//classes()
+
+//prop()
+
+//methods()
+
+//sub()
+
+//inherit()
+
+//intilization()
+
+//deintilizing()
+
+//ARC()
+
+//option()
+
+//typecaste()
+
+//ext()
+
+//protocols()
+
+//gen()
+
+AC()
